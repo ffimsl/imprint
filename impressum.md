@@ -1,18 +1,14 @@
 # Impressum
-Dieses Impressum gilt für die Seite(n) "infrastruktur.ms","facebook.com/ffimsl"
+Dieses Impressum gilt für die Seiten "infrastruktur.ms" und "facebook.com/ffimsl".
 
 Förderverein freie Infrastruktur e.V.  
-Amtsgerich Münster, VR 5566
+Amtsgericht Münster, VR 5566
 
 ## Vertretungsberechtigter Vorstand
-vorstand@infrastruktur.ms  
+E-Mail: vorstand@infrastruktur.ms  
  * Ingomar Otter, Franz-Essink-Str 3, 48147 Münster
  * Matthias Walter, Aegidiistr. 48, 48143 Münster
  * Kevin Chiang, Kolde-Ring 41, 48151 Münster
 
-
-
-
 ## Kontakt
-info@infrastruktur.ms
-
+E-Mail: info@infrastruktur.ms
